@@ -2,7 +2,7 @@
 Try it out
 
 ## Live links
-- Leaflet Map https://jackdougherty.github.io/cth-storymaps-practice/
+- Leaflet Map https://cthumanities.github.io/cth-storymaps-practice
 - Linked Google Sheets template https://docs.google.com/spreadsheets/d/1CsIRBZGWMIm_iYPsNS5FwOLTOlH6zasw8WbCFKGCQLk/edit#gid=0
 
 ## How to Add and Edit Map Data and Settings
